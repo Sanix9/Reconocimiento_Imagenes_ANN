@@ -4,4 +4,4 @@ This book presents a project on the main aspects to create, train and validate a
 
 ## Video
 
-[![Watch the video](https://miro.medium.com/max/10912/0*c_3R8AQ7ENzUtHmf)](https://youtu.be/38FSj1YBNrA)
+[![Watch the video](img/video.png)](https://youtu.be/STytKUwqH1A)
