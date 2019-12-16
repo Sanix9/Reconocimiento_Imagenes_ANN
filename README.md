@@ -4,4 +4,4 @@ This book presents a project on the main aspects to create, train and validate a
 
 ## Video
 
-[![Watch the video](img/video.png)](https://youtu.be/STytKUwqH1A)
+[![Watch the video](img/video.PNG)](https://youtu.be/STytKUwqH1A)
