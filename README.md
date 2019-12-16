@@ -1,3 +1,3 @@
 ## ANN Shape Recognition
 
-<iframe width="949" height="534" src="https://www.youtube.com/embed/qTuUy6C7Ob4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://miro.medium.com/max/10912/0*c_3R8AQ7ENzUtHmf)](https://youtu.be/38FSj1YBNrA)
